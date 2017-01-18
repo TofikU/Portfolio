@@ -1,0 +1,161 @@
+/* Importing Brandico Font */
+
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+
+/* Global 
+======================================= */
+
+body {
+	padding: 20px 0;
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+}
+
+hr {
+  border-top: 2px solid #bbb;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.text-thin {
+	font-weight: 200;
+}
+
+/* Profile 
+======================================= */
+
+.profile {
+	margin-top: 10px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.profile-name {
+	margin: 0;
+	font-size: 4.286em;
+}
+
+.profile-job {
+	margin: 5px;
+	font-size: 1.429em;
+}
+
+/* Projects 
+======================================= */
+
+.project-featured {
+	color: #bbb;
+}
+
+.project {
+	text-align: center;
+}
+
+.project-title {
+	color: #666756;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.project-link {
+	font-size: 1.143em;
+	color: #666756;
+}
+
+/* Footer 
+======================================= */
+
+.footer {
+	margin-top: 50px;
+	font-size: 1.143em;
+	font-weight: 400;
+	text-align: center;
+}
+
+/* brandico */
+[class*="brandico-"]:before {
+  	font-family: 'brandico', sans-serif;
+}
+
+/* Responsive images 
+======================================= */
+
+/* Large Devices, Wide */
+
+@media only screen and (max-width: 1200px) {
+	.profile {
+		text-align: center;
+	}
+
+	.profile-avatar {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 992px) {
+	.profile {
+		text-align: center;
+	}
+
+	.profile-avatar {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+/* Small Devices, Tablets Landscape */
+
+@media only screen and (max-width: 768px) {
+	.profile {
+		text-align: center;
+	}
+
+	.profile-avatar {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+/* Small Devices, Tablets Portrait */
+
+@media only screen and (max-width: 600px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile-avatar {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .profile-name {
+    font-size: 2.857em;
+  }
+}
+
+/* Small Devices, Smarthones */
+
+@media only screen and (max-width: 480px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile-avatar {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .profile-name {
+    font-size: 2.857em;
+  }
+}
