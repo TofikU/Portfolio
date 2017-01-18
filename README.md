@@ -9,7 +9,9 @@ To run this application you need to:
 
 - Download all files included in this repository
 - Double click on **portfolio.html** file
+
 **OR**
+
 Click here - http://tofiksportfolio.com
 
 ## License
