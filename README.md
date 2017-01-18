@@ -12,7 +12,7 @@ To run this application you need to:
 
 **OR**
 
-- Click here - http://tofiksportfolio.com
+- [Click here](http://tofiksportfolio.com)
 
 ## License
 The MIT License (MIT)
