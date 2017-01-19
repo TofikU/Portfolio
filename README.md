@@ -2,7 +2,7 @@
 ## About
 **Portfolio Website Project is a part of Udacity "Full Stack Web Developer Nanodegree"**
 
-This is a **Portfolio Website** where users can see and navigate to projects I've build.
+Developed a personal portfolio page using **HTML**, **CSS**, and the **Bootstrap** framework. The page is fully responsive and works on mobile, tablet, and desktop browsers.
 
 ## How to Run
 To run this application you need to:
